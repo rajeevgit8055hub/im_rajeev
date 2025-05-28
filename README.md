@@ -12,13 +12,18 @@ Data enthusiast exploring real-world solutions through Excel automation and BI t
 
 ## 🚀 About Me
 
-I'm deeply passionate about working with data and transforming raw information into powerful business insights.  
-With a strong command of Microsoft Office tools & a growing knowledge of modern data technologies, 
-My aim involves optimizing reporting & automating workflows to achieve maximum efficiency.
+
+<p style="font-style: italic; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px;">
+I'm deeply passionate about working with data and transforming raw information into powerful business insights.<br>
+With a strong command of Microsoft Office tools & a growing knowledge of modern data technologies,<br>
+my aim involves optimizing reporting & automating workflows to achieve maximum efficiency.
+</p>
+
 ---
 
 ## 🎯 My Mission
 
+- To fulfill my dream of becoming a proficient Data Analyst  
 - To simplify complex data for easy interpretation  
 - To create professional and automated reporting systems  
 - To continuously learn and apply new data technologies  
@@ -55,6 +60,7 @@ My aim involves optimizing reporting & automating workflows to achieve maximum e
 ---
 
 ### My Skills  
+
 <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" alt="Microsoft" width="30"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="30"/>
 <img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" alt="SQL / Database" width="30"/>
