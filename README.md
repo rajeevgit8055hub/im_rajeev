@@ -1,7 +1,6 @@
 # im_rajeev
 Data enthusiast exploring real-world solutions through Excel automation and BI tools
 
-
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Hello+%F0%9F%91%8B+Welcome+to+My+GitHub+Profile!;Data+Enthusiast+%7C+Excel+%26+Access+Expert;Learning+Power+BI%2C+SQL%2C+VBA%2C+Python)](https://git.io/typing-svg)
 
@@ -14,9 +13,8 @@ Data enthusiast exploring real-world solutions through Excel automation and BI t
 
 ## 🚀 About Me
 
-I am deeply passionate about working with data and transforming raw information into powerful business insights.  
-With a strong command of Microsoft Office tools and a growing knowledge of modern data technologies, I aim to optimize reporting and automate workflows for maximum efficiency.
-
+I'm deeply passionate about working with data and transforming raw information into powerful business insights.  
+With a strong command of Microsoft Office tools & a growing knowledge of modern data technologies, My aim involves optimizing reporting & automating workflows to achieve maximum efficiency.
 ---
 
 ## 🎯 My Mission
@@ -56,7 +54,18 @@ With a strong command of Microsoft Office tools and a growing knowledge of moder
 
 ---
 
-## 🙌 Thanks for Visiting!
+### My Skills  
+<img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" alt="Excel" width="30"/>  
+<img src="https://cdn-icons-png.flaticon.com/512/732/732048.png" alt="Power BI" width="30"/>  
+<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="SQL" width="30"/>  
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="30"/>
+
+---
+
+## Snake Effect
+<img src="https://media.giphy.com/media/3o7aD4SyH8P7NGxU7K/giphy.gif" alt="Snake Animation" width="300" />
+
+## 🤝 Thanks for Visiting!
 
 > Let’s connect and grow together in the data world 🚀  
 > Feel free to check out my repositories and ongoing projects.
